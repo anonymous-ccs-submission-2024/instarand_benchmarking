@@ -2,6 +2,7 @@
 Library benchmarking VRF, dVRF, FlexiRand, and InstaRand.
 Artifact submission for CCS 2024.
 Contains off-chain benchmarking written in Rust and on-chain benchmarking written in Solidity.
+Note [submission.zip](./submission.zip) contains this [README](./README.md) as well as the [`offchain`](./off-chain/), [`on-chain`](./on-chain), and [`data`](./data/) folders so that they can be conveniently downloaded from anonymized github link.
 ## Rust
 #### Rust Benchmarks Overview
 - Goldberg VRF on Secp256k1 Curve
