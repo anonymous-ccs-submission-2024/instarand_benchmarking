@@ -62,6 +62,6 @@ Contains off-chain benchmarking written in Rust and on-chain benchmarking writte
 - [`~/transcripts/`](./data/on-chain/transcripts/) contains the raw output from running the experiments
   - Due to the constraints of Remix IDE we ran experiments in 10 batches of 10.
   - We always begin with a single batch of 1 to initialize any on-chain variables. This batch is not counted towards our data as it is more expensive than any other round.
-- storage_operations was benched twice since constant csot
+  - [storage_operations](./on-chain/contracts/storage_operations.sol) was only ran twice after the initial batch of 1 since all its operations use constant gas.
 - [`results.xlsx`](./data/on-chain/results.xlsx) contains data which has been parsed and made more presentable.
   - The left half of the sheet contains final numbers and the right side contains the average from each of the 10 runs.
