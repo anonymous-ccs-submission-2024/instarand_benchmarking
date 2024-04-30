@@ -1,0 +1,112 @@
+creation of InstaRand pending...
+[vm]from: 0x5B3...eddC4to: InstaRand.(constructor)value: 0 weidata: 0x608...30033logs: 0hash: 0xe79...c5a32
+running scripts/bench_instarand.ts ...
+running bench_instarand with 1 repeitions
+total transaction gas over 1 key_reg transactions 74734
+total transaction gas over 1 pre_ver transactions 241238
+total transaction gas over 1 instant_ver transactions 87821
+average transaction gas over 1 key_reg transactions 74734
+average transaction gas over 1 pre_ver transactions 241238
+average transaction gas over 1 instant_ver transactions 87821
+transaction gas raw data
+[[74734],[241238],[87821]]
+running scripts/bench_instarand.ts ...
+running bench_instarand with 10 repeitions
+total transaction gas over 10 key_reg transactions 576412
+total transaction gas over 10 pre_ver transactions 2460068
+total transaction gas over 10 instant_ver transactions 834902
+average transaction gas over 10 key_reg transactions 57641.2
+average transaction gas over 10 pre_ver transactions 246006.8
+average transaction gas over 10 instant_ver transactions 83490.2
+transaction gas raw data
+[[57646,57646,57646,57634,57646,57634,57634,57634,57646,57646],[240858,248457,255423,255215,248008,262561,241030,241030,233847,233639],[79879,95615,79905,79993,79981,87857,83987,80015,87767,79903]]
+running scripts/bench_instarand.ts ...
+running bench_instarand with 10 repeitions
+total transaction gas over 10 key_reg transactions 576412
+total transaction gas over 10 pre_ver transactions 2445931
+total transaction gas over 10 instant_ver transactions 858296
+average transaction gas over 10 key_reg transactions 57641.2
+average transaction gas over 10 pre_ver transactions 244593.1
+average transaction gas over 10 instant_ver transactions 85829.6
+transaction gas raw data
+[[57646,57646,57646,57634,57634,57646,57634,57646,57646,57634],[255227,248020,241054,248388,248008,248065,233835,241054,241250,241030],[91620,87853,79869,79893,91632,83963,103595,79983,79995,79893]]
+running scripts/bench_instarand.ts ...
+running bench_instarand with 10 repeitions
+total transaction gas over 10 key_reg transactions 576424
+total transaction gas over 10 pre_ver transactions 2437952
+total transaction gas over 10 instant_ver transactions 831018
+average transaction gas over 10 key_reg transactions 57642.4
+average transaction gas over 10 pre_ver transactions 243795.2
+average transaction gas over 10 instant_ver transactions 83101.8
+transaction gas raw data
+[[57634,57646,57634,57646,57646,57646,57646,57646,57634,57646],[248008,255227,240846,233639,255423,240858,233847,240858,233823,255423],[79971,79869,83875,83975,83987,79857,83895,79867,87855,87867]]
+running scripts/bench_instarand.ts ...
+running bench_instarand with 10 repeitions
+total transaction gas over 10 key_reg transactions 576376
+total transaction gas over 10 pre_ver transactions 2474123
+total transaction gas over 10 instant_ver transactions 850190
+average transaction gas over 10 key_reg transactions 57637.6
+average transaction gas over 10 pre_ver transactions 247412.3
+average transaction gas over 10 instant_ver transactions 85019
+transaction gas raw data
+[[57646,57622,57622,57646,57646,57634,57634,57646,57646,57634],[248053,248237,240834,240858,248216,248008,240846,255423,248237,255411],[83759,79969,99689,79969,83907,79869,79879,103355,79893,79901]]
+running scripts/bench_instarand.ts ...
+running bench_instarand with 10 repeitions
+total transaction gas over 10 key_reg transactions 576436
+total transaction gas over 10 pre_ver transactions 2445681
+total transaction gas over 10 instant_ver transactions 839267
+average transaction gas over 10 key_reg transactions 57643.6
+average transaction gas over 10 pre_ver transactions 244568.1
+average transaction gas over 10 instant_ver transactions 83926.7
+transaction gas raw data
+[[57646,57646,57634,57634,57646,57646,57646,57646,57646,57646],[233847,248216,255215,248008,262377,241054,233847,248020,241054,234043],[79993,79991,83873,91826,83989,79993,80017,83997,79995,95593]]
+running scripts/bench_instarand.ts ...
+running bench_instarand with 10 repeitions
+total transaction gas over 10 key_reg transactions 576424
+total transaction gas over 10 pre_ver transactions 2431044
+total transaction gas over 10 instant_ver transactions 862438
+average transaction gas over 10 key_reg transactions 57642.4
+average transaction gas over 10 pre_ver transactions 243104.4
+average transaction gas over 10 instant_ver transactions 86243.8
+transaction gas raw data
+[[57646,57646,57646,57634,57646,57634,57646,57634,57646,57646],[248020,248216,241054,240834,234043,248400,240846,233603,233639,262389],[79893,83953,91962,79857,87877,79971,91646,79923,99715,87641]]
+running scripts/bench_instarand.ts ...
+running bench_instarand with 10 repeitions
+total transaction gas over 10 key_reg transactions 576412
+total transaction gas over 10 pre_ver transactions 2445470
+total transaction gas over 10 instant_ver transactions 846635
+average transaction gas over 10 key_reg transactions 57641.2
+average transaction gas over 10 pre_ver transactions 244547
+average transaction gas over 10 instant_ver transactions 84663.5
+transaction gas raw data
+[[57646,57646,57634,57646,57646,57634,57646,57634,57634,57646],[233847,240834,241042,248020,240846,233835,233651,255399,255215,262781],[79983,83985,83953,80007,80007,79891,87741,99555,91520,79993]]
+running scripts/bench_instarand.ts ...
+running bench_instarand with 10 repeitions
+total transaction gas over 10 key_reg transactions 576424
+total transaction gas over 10 pre_ver transactions 2439092
+total transaction gas over 10 instant_ver transactions 823041
+average transaction gas over 10 key_reg transactions 57642.4
+average transaction gas over 10 pre_ver transactions 243909.2
+average transaction gas over 10 instant_ver transactions 82304.1
+transaction gas raw data
+[[57646,57646,57646,57646,57646,57646,57622,57634,57646,57646],[248412,240858,248204,248216,233847,248433,240834,233823,248445,248020],[91612,80015,79879,79903,79993,79903,87831,83863,80015,80027]]
+running scripts/bench_instarand.ts ...
+running bench_instarand with 10 repeitions
+total transaction gas over 10 key_reg transactions 576412
+total transaction gas over 10 pre_ver transactions 2410481
+total transaction gas over 10 instant_ver transactions 826411
+average transaction gas over 10 key_reg transactions 57641.2
+average transaction gas over 10 pre_ver transactions 241048.1
+average transaction gas over 10 instant_ver transactions 82641.1
+transaction gas raw data
+[[57646,57646,57646,57646,57634,57622,57634,57646,57646,57646],[233847,241054,248204,241054,255203,241214,248204,233823,233847,234031],[79867,83747,79891,91546,83873,87753,79845,79993,79891,80005]]
+running scripts/bench_instarand.ts ...
+running bench_instarand with 10 repeitions
+total transaction gas over 10 key_reg transactions 576412
+total transaction gas over 10 pre_ver transactions 2453256
+total transaction gas over 10 instant_ver transactions 826815
+average transaction gas over 10 key_reg transactions 57641.2
+average transaction gas over 10 pre_ver transactions 245325.6
+average transaction gas over 10 instant_ver transactions 82681.5
+transaction gas raw data
+[[57646,57622,57646,57634,57646,57646,57634,57646,57646,57646],[255619,233823,255619,248249,233847,248008,233835,248020,248020,248216],[87739,83849,79915,83863,91736,80003,79889,79993,79913,79915]]

@@ -1,0 +1,288 @@
+creation of CryptoOperations pending...
+[vm]from: 0x5B3...eddC4to: CryptoOperations.(constructor)value: 0 weidata: 0x608...30033logs: 0hash: 0x476...f22d0
+running scripts/bench_crypto_operations.ts ...
+running bench_crypto_operations with 1 repeitions
+total execution gas for 1 hash_to_secp256k1 operations 8921
+total execution gas for 1 ddh_vrf_verification operations 29432
+total execution gas for 1 hash_to_bn254_g1 operations 57998
+total execution gas for 1 glow_vrf_verification operations 132175
+total execution gas for 1 verify_pairing_signature operations 80194
+total execution gas for 1 bench_bls_sig_ver_str operations 159954
+average execution gas for 1 hash_to_secp256k1 operations 8921
+average execution gas for 1 ddh_vrf_verification operations 29432
+average execution gas for 1 hash_to_bn254_g1 operations 57998
+average execution gas for 1 glow_vrf_verification operations 132175
+average execution gas for 1 verify_pairing_signature operations 80194
+average execution gas for 1 bench_bls_sig_ver_str operations 159954
+raw data for bench_secp256k1_hash_to_curve
+[8921]
+raw data for bench_ddh_vrf_ver
+[29432]
+raw data for bench_bn254_hash_to_curve
+[57998]
+raw data for bench_bls_vrf_ver_str
+[132175]
+raw data for bench_bls_verify_pairing
+[80194]
+raw data for bench_bls_sig_ver_str
+[159954]
+running scripts/bench_crypto_operations.ts ...
+running bench_crypto_operations with 10 repeitions
+total execution gas for 10 hash_to_secp256k1 operations 81557
+total execution gas for 10 ddh_vrf_verification operations 329776
+total execution gas for 10 hash_to_bn254_g1 operations 629963
+total execution gas for 10 glow_vrf_verification operations 1478964
+total execution gas for 10 verify_pairing_signature operations 801940
+total execution gas for 10 bench_bls_sig_ver_str operations 1403907
+average execution gas for 10 hash_to_secp256k1 operations 8155.7
+average execution gas for 10 ddh_vrf_verification operations 32977.6
+average execution gas for 10 hash_to_bn254_g1 operations 62996.3
+average execution gas for 10 glow_vrf_verification operations 147896.4
+average execution gas for 10 verify_pairing_signature operations 80194
+average execution gas for 10 bench_bls_sig_ver_str operations 140390.7
+raw data for bench_secp256k1_hash_to_curve
+[8921,4942,5044,9023,9023,5044,5044,8819,8819,16878]
+raw data for bench_ddh_vrf_ver
+[37301,29442,33514,37199,37199,29432,37383,29432,29432,29442]
+raw data for bench_bn254_hash_to_curve
+[50595,79333,72367,65356,58194,57998,57998,64964,57802,65356]
+raw data for bench_bls_vrf_ver_str
+[146589,132175,146544,146197,160717,139382,160717,139382,160913,146348]
+raw data for bench_bls_verify_pairing
+[80194,80194,80194,80194,80194,80194,80194,80194,80194,80194]
+raw data for bench_bls_sig_ver_str
+[138227,152596,131216,131020,131020,145434,145585,138227,145389,145193]
+running scripts/bench_crypto_operations.ts ...
+running bench_crypto_operations with 10 repeitions
+total execution gas for 10 hash_to_secp256k1 operations 81352
+total execution gas for 10 ddh_vrf_verification operations 325857
+total execution gas for 10 hash_to_bn254_g1 operations 586811
+total execution gas for 10 glow_vrf_verification operations 1427715
+total execution gas for 10 verify_pairing_signature operations 801940
+total execution gas for 10 bench_bls_sig_ver_str operations 1440199
+average execution gas for 10 hash_to_secp256k1 operations 8135.2
+average execution gas for 10 ddh_vrf_verification operations 32585.7
+average execution gas for 10 hash_to_bn254_g1 operations 58681.1
+average execution gas for 10 glow_vrf_verification operations 142771.5
+average execution gas for 10 verify_pairing_signature operations 80194
+average execution gas for 10 bench_bls_sig_ver_str operations 144019.9
+raw data for bench_secp256k1_hash_to_curve
+[5044,9023,4942,8921,12797,4942,8819,12899,4942,9023]
+raw data for bench_ddh_vrf_ver
+[33310,29442,33412,37189,29422,37291,29534,29432,37393,29432]
+raw data for bench_bn254_hash_to_curve
+[65160,58194,50791,57802,64964,65160,50791,65356,50791,57802]
+raw data for bench_bls_vrf_ver_str
+[160521,146393,139186,138990,146348,139382,132175,139186,146348,139186]
+raw data for bench_bls_verify_pairing
+[80194,80194,80194,80194,80194,80194,80194,80194,80194,80194]
+raw data for bench_bls_sig_ver_str
+[159758,131020,138227,131216,145630,152596,159758,131020,159758,131216]
+running scripts/bench_crypto_operations.ts ...
+running bench_crypto_operations with 10 repeitions
+total execution gas for 10 hash_to_secp256k1 operations 85331
+total execution gas for 10 ddh_vrf_verification operations 318692
+total execution gas for 10 hash_to_bn254_g1 operations 644181
+total execution gas for 10 glow_vrf_verification operations 1428258
+total execution gas for 10 verify_pairing_signature operations 801940
+total execution gas for 10 bench_bls_sig_ver_str operations 1439370
+average execution gas for 10 hash_to_secp256k1 operations 8533.1
+average execution gas for 10 ddh_vrf_verification operations 31869.2
+average execution gas for 10 hash_to_bn254_g1 operations 64418.1
+average execution gas for 10 glow_vrf_verification operations 142825.8
+average execution gas for 10 verify_pairing_signature operations 80194
+average execution gas for 10 bench_bls_sig_ver_str operations 143937
+raw data for bench_secp256k1_hash_to_curve
+[8921,12797,8921,9023,4942,12899,5044,8819,5044,8921]
+raw data for bench_ddh_vrf_ver
+[29534,33514,33504,41384,29534,29422,29432,33412,29422,29534]
+raw data for bench_bn254_hash_to_curve
+[72367,57998,79333,65401,57802,57998,65160,79333,57998,50791]
+raw data for bench_bls_vrf_ver_str
+[139382,131979,139382,153751,153555,131979,131979,153359,131979,160913]
+raw data for bench_bls_verify_pairing
+[80194,80194,80194,80194,80194,80194,80194,80194,80194,80194]
+raw data for bench_bls_sig_ver_str
+[145193,131216,159954,130824,145389,145193,131020,152596,145389,152596]
+running scripts/bench_crypto_operations.ts ...
+running bench_crypto_operations with 10 repeitions
+total execution gas for 10 hash_to_secp256k1 operations 73803
+total execution gas for 10 ddh_vrf_verification operations 326061
+total execution gas for 10 hash_to_bn254_g1 operations 594063
+total execution gas for 10 glow_vrf_verification operations 1377356
+total execution gas for 10 verify_pairing_signature operations 801940
+total execution gas for 10 bench_bls_sig_ver_str operations 1389538
+average execution gas for 10 hash_to_secp256k1 operations 7380.3
+average execution gas for 10 ddh_vrf_verification operations 32606.1
+average execution gas for 10 hash_to_bn254_g1 operations 59406.3
+average execution gas for 10 glow_vrf_verification operations 137735.6
+average execution gas for 10 verify_pairing_signature operations 80194
+average execution gas for 10 bench_bls_sig_ver_str operations 138953.8
+raw data for bench_secp256k1_hash_to_curve
+[5044,8819,9023,5044,9023,8921,4942,5044,4942,13001]
+raw data for bench_ddh_vrf_ver
+[29432,33412,29432,29442,33310,29442,41262,33514,29534,37281]
+raw data for bench_bn254_hash_to_curve
+[50791,65205,72367,50595,64964,57998,50987,72367,58194,50595]
+raw data for bench_bls_vrf_ver_str
+[131979,146544,146152,139186,146589,132175,131979,131979,131783,138990]
+raw data for bench_bls_verify_pairing
+[80194,80194,80194,80194,80194,80194,80194,80194,80194,80194]
+raw data for bench_bls_sig_ver_str
+[138227,130824,138227,145434,159758,131020,131216,130824,145585,138423]
+running scripts/bench_crypto_operations.ts ...
+running bench_crypto_operations with 10 repeitions
+total execution gas for 10 hash_to_secp256k1 operations 73700
+total execution gas for 10 ddh_vrf_verification operations 326285
+total execution gas for 10 hash_to_bn254_g1 operations 665516
+total execution gas for 10 glow_vrf_verification operations 1434289
+total execution gas for 10 verify_pairing_signature operations 801940
+total execution gas for 10 bench_bls_sig_ver_str operations 1432102
+average execution gas for 10 hash_to_secp256k1 operations 7370
+average execution gas for 10 ddh_vrf_verification operations 32628.5
+average execution gas for 10 hash_to_bn254_g1 operations 66551.6
+average execution gas for 10 glow_vrf_verification operations 143428.9
+average execution gas for 10 verify_pairing_signature operations 80194
+average execution gas for 10 bench_bls_sig_ver_str operations 143210.2
+raw data for bench_secp256k1_hash_to_curve
+[8921,5044,8819,5044,5044,5044,5044,12899,5044,12797]
+raw data for bench_ddh_vrf_ver
+[37403,41272,29442,29524,33320,29524,29432,29534,33422,33412]
+raw data for bench_bn254_hash_to_curve
+[65160,72171,64964,72171,79333,72367,50987,57998,72367,57998]
+raw data for bench_bls_vrf_ver_str
+[138990,131979,138990,146348,139186,160717,160717,139186,138990,139186]
+raw data for bench_bls_verify_pairing
+[80194,80194,80194,80194,80194,80194,80194,80194,80194,80194]
+raw data for bench_bls_sig_ver_str
+[138423,145193,145193,145434,159758,130824,138423,138227,152596,138031]
+running scripts/bench_crypto_operations.ts ...
+running bench_crypto_operations with 10 repeitions
+total execution gas for 10 hash_to_secp256k1 operations 104716
+total execution gas for 10 ddh_vrf_verification operations 326663
+total execution gas for 10 hash_to_bn254_g1 operations 651539
+total execution gas for 10 glow_vrf_verification operations 1463223
+total execution gas for 10 verify_pairing_signature operations 801940
+total execution gas for 10 bench_bls_sig_ver_str operations 1396157
+average execution gas for 10 hash_to_secp256k1 operations 10471.6
+average execution gas for 10 ddh_vrf_verification operations 32666.3
+average execution gas for 10 hash_to_bn254_g1 operations 65153.9
+average execution gas for 10 glow_vrf_verification operations 146322.3
+average execution gas for 10 verify_pairing_signature operations 80194
+average execution gas for 10 bench_bls_sig_ver_str operations 139615.7
+raw data for bench_secp256k1_hash_to_curve
+[8819,8921,16674,12899,12899,4942,5044,4942,24634,4942]
+raw data for bench_ddh_vrf_ver
+[33504,29442,29422,29544,29534,33412,41364,29442,33514,37485]
+raw data for bench_bn254_hash_to_curve
+[65401,64964,72367,58194,65160,72171,72367,64964,65160,50791]
+raw data for bench_bls_vrf_ver_str
+[160717,160717,139382,146152,153359,146197,132175,153555,138990,131979]
+raw data for bench_bls_verify_pairing
+[80194,80194,80194,80194,80194,80194,80194,80194,80194,80194]
+raw data for bench_bls_sig_ver_str
+[145434,138031,152792,152792,138031,131020,131020,131020,130824,145193]
+running scripts/bench_crypto_operations.ts ...
+running bench_crypto_operations with 10 repeitions
+total execution gas for 10 hash_to_secp256k1 operations 92980
+total execution gas for 10 ddh_vrf_verification operations 330011
+total execution gas for 10 hash_to_bn254_g1 operations 623344
+total execution gas for 10 glow_vrf_verification operations 1514427
+total execution gas for 10 verify_pairing_signature operations 801940
+total execution gas for 10 bench_bls_sig_ver_str operations 1475601
+average execution gas for 10 hash_to_secp256k1 operations 9298
+average execution gas for 10 ddh_vrf_verification operations 33001.1
+average execution gas for 10 hash_to_bn254_g1 operations 62334.4
+average execution gas for 10 glow_vrf_verification operations 151442.7
+average execution gas for 10 verify_pairing_signature operations 80194
+average execution gas for 10 bench_bls_sig_ver_str operations 147560.1
+raw data for bench_secp256k1_hash_to_curve
+[12899,5044,12899,5044,4942,4942,12797,16674,12695,5044]
+raw data for bench_ddh_vrf_ver
+[37291,37393,33310,37383,29422,29422,33412,29544,29524,33310]
+raw data for bench_bn254_hash_to_curve
+[65160,57802,65160,57998,65160,50987,57998,50987,72367,79725]
+raw data for bench_bls_vrf_ver_str
+[153555,139382,160717,153359,160913,131783,160717,160913,160913,132175]
+raw data for bench_bls_verify_pairing
+[80194,80194,80194,80194,80194,80194,80194,80194,80194,80194]
+raw data for bench_bls_sig_ver_str
+[159562,152792,138423,138227,152596,145389,145585,152400,145389,145238]
+running scripts/bench_crypto_operations.ts ...
+running bench_crypto_operations with 10 repeitions
+total execution gas for 10 hash_to_secp256k1 operations 77169
+total execution gas for 10 ddh_vrf_verification operations 341923
+total execution gas for 10 hash_to_bn254_g1 operations 637064
+total execution gas for 10 glow_vrf_verification operations 1420312
+total execution gas for 10 verify_pairing_signature operations 801940
+total execution gas for 10 bench_bls_sig_ver_str operations 1411069
+average execution gas for 10 hash_to_secp256k1 operations 7716.9
+average execution gas for 10 ddh_vrf_verification operations 34192.3
+average execution gas for 10 hash_to_bn254_g1 operations 63706.4
+average execution gas for 10 glow_vrf_verification operations 142031.2
+average execution gas for 10 verify_pairing_signature operations 80194
+average execution gas for 10 bench_bls_sig_ver_str operations 141106.9
+raw data for bench_secp256k1_hash_to_curve
+[8921,5044,4942,4942,8921,4942,12695,5044,8921,12797]
+raw data for bench_ddh_vrf_ver
+[33422,29432,29534,45060,29442,37291,33412,29442,37393,37495]
+raw data for bench_bn254_hash_to_curve
+[65009,57802,65205,72171,65356,50987,57998,72171,65205,65160]
+raw data for bench_bls_vrf_ver_str
+[146348,139382,146589,153359,131979,131979,153359,138990,131979,146348]
+raw data for bench_bls_verify_pairing
+[80194,80194,80194,80194,80194,80194,80194,80194,80194,80194]
+raw data for bench_bls_sig_ver_str
+[138227,131216,145389,152596,145389,130824,145389,131020,145585,145434]
+running scripts/bench_crypto_operations.ts ...
+running bench_crypto_operations with 10 repeitions
+total execution gas for 10 hash_to_secp256k1 operations 104918
+total execution gas for 10 ddh_vrf_verification operations 341454
+total execution gas for 10 hash_to_bn254_g1 operations 630008
+total execution gas for 10 glow_vrf_verification operations 1485191
+total execution gas for 10 verify_pairing_signature operations 801940
+total execution gas for 10 bench_bls_sig_ver_str operations 1410873
+average execution gas for 10 hash_to_secp256k1 operations 10491.8
+average execution gas for 10 ddh_vrf_verification operations 34145.4
+average execution gas for 10 hash_to_bn254_g1 operations 63000.8
+average execution gas for 10 glow_vrf_verification operations 148519.1
+average execution gas for 10 verify_pairing_signature operations 80194
+average execution gas for 10 bench_bls_sig_ver_str operations 141087.3
+raw data for bench_secp256k1_hash_to_curve
+[8819,16980,13001,4942,16878,12797,8819,8921,8819,4942]
+raw data for bench_ddh_vrf_ver
+[37291,37179,33310,29524,37281,29442,37189,29544,41262,29432]
+raw data for bench_bn254_hash_to_curve
+[57998,65160,57998,65160,64964,58194,72171,65205,50791,72367]
+raw data for bench_bls_vrf_ver_str
+[153555,160717,139382,131783,160717,146393,146348,153751,146393,146152]
+raw data for bench_bls_verify_pairing
+[80194,80194,80194,80194,80194,80194,80194,80194,80194,80194]
+raw data for bench_bls_sig_ver_str
+[145585,131216,138227,138227,138031,145389,145193,145389,138031,145585]
+running scripts/bench_crypto_operations.ts ...
+running bench_crypto_operations with 10 repeitions
+total execution gas for 10 hash_to_secp256k1 operations 93187
+total execution gas for 10 ddh_vrf_verification operations 365159
+total execution gas for 10 hash_to_bn254_g1 operations 558314
+total execution gas for 10 glow_vrf_verification operations 1427715
+total execution gas for 10 verify_pairing_signature operations 801940
+total execution gas for 10 bench_bls_sig_ver_str operations 1432600
+average execution gas for 10 hash_to_secp256k1 operations 9318.7
+average execution gas for 10 ddh_vrf_verification operations 36515.9
+average execution gas for 10 hash_to_bn254_g1 operations 55831.4
+average execution gas for 10 glow_vrf_verification operations 142771.5
+average execution gas for 10 verify_pairing_signature operations 80194
+average execution gas for 10 bench_bls_sig_ver_str operations 143260
+raw data for bench_secp256k1_hash_to_curve
+[5044,5044,8921,4942,5044,5044,16878,20552,8921,12797]
+raw data for bench_ddh_vrf_ver
+[45142,37393,45050,29442,37291,29432,29432,45346,37199,29432]
+raw data for bench_bn254_hash_to_curve
+[50791,58194,57802,50791,58194,64964,50791,57802,50987,57998]
+raw data for bench_bls_vrf_ver_str
+[153555,146393,131979,139186,138990,131979,138990,153751,146544,146348]
+raw data for bench_bls_verify_pairing
+[80194,80194,80194,80194,80194,80194,80194,80194,80194,80194]
+raw data for bench_bls_sig_ver_str
+[152596,145389,138227,145389,131020,145389,145585,130824,138227,159954]

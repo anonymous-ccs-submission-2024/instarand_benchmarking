@@ -1,0 +1,8 @@
+{
+    "dvrf": "0xB37B2D41E46cDc47b4d33EebBf027c9405453f64",
+    "flexirand": "0x8207D032322052AfB9Bf1463aF87fd0c0097EDDE",
+    "instarand": "0x8207D032322052AfB9Bf1463aF87fd0c0097EDDE",
+    "vrf": "0x8207D032322052AfB9Bf1463aF87fd0c0097EDDE",
+    "crypto_operations": "0x948de9B589Ad4A4e776f8c5239801dc34C9C56fB",
+    "storage_operations": "0x2EC097CcD4a155b53cE6Bd450be4b60BD91C767f"
+}

@@ -1,0 +1,68 @@
+creation of StorageOperations pending...
+[vm]from: 0x5B3...eddC4to: StorageOperations.(constructor)value: 0 weidata: 0x608...30033logs: 0hash: 0xa5c...a7893
+running scripts/bench_storage_operations.ts ...
+running bench_storage_operations with 1 repeitions
+total execution gas for 1 increment_nonce operations 5225
+total execution gas for 1 store_hash operations 22202
+total execution gas for 1 hash_inp_and_store operations 22253
+total execution gas for 1 delete_data_from_mapping operations 5097
+total execution gas for 1 store_bn254_g1_element_in_mapping operations 44628
+average execution gas for 1 increment_nonce operations 5225
+average execution gas for 1 store_hash operations 22202
+average execution gas for 1 hash_inp_and_store operations 22253
+average execution gas for 1 delete_data_from_mapping operations 5097
+average execution gas for 1 store_bn254_g1_element_in_mapping operations 44628
+raw data for bench_increment_nonce
+[5225]
+raw data for bench_store_hash
+[22202]
+raw data for bench_hash_and_store
+[22253]
+raw data for bench_delete_commitment
+[5097]
+raw data for bench_store_ecp
+[44628]
+running scripts/bench_storage_operations.ts ...
+running bench_storage_operations with 10 repeitions
+total execution gas for 10 increment_nonce operations 52250
+total execution gas for 10 store_hash operations 222020
+total execution gas for 10 hash_inp_and_store operations 222530
+total execution gas for 10 delete_data_from_mapping operations 50970
+total execution gas for 10 store_bn254_g1_element_in_mapping operations 446280
+average execution gas for 10 increment_nonce operations 5225
+average execution gas for 10 store_hash operations 22202
+average execution gas for 10 hash_inp_and_store operations 22253
+average execution gas for 10 delete_data_from_mapping operations 5097
+average execution gas for 10 store_bn254_g1_element_in_mapping operations 44628
+raw data for bench_increment_nonce
+[5225,5225,5225,5225,5225,5225,5225,5225,5225,5225]
+raw data for bench_store_hash
+[22202,22202,22202,22202,22202,22202,22202,22202,22202,22202]
+raw data for bench_hash_and_store
+[22253,22253,22253,22253,22253,22253,22253,22253,22253,22253]
+raw data for bench_delete_commitment
+[5097,5097,5097,5097,5097,5097,5097,5097,5097,5097]
+raw data for bench_store_ecp
+[44628,44628,44628,44628,44628,44628,44628,44628,44628,44628]
+running scripts/bench_storage_operations.ts ...
+running bench_storage_operations with 10 repeitions
+total execution gas for 10 increment_nonce operations 52250
+total execution gas for 10 store_hash operations 222020
+total execution gas for 10 hash_inp_and_store operations 222530
+total execution gas for 10 delete_data_from_mapping operations 50970
+total execution gas for 10 store_bn254_g1_element_in_mapping operations 446280
+average execution gas for 10 increment_nonce operations 5225
+average execution gas for 10 store_hash operations 22202
+average execution gas for 10 hash_inp_and_store operations 22253
+average execution gas for 10 delete_data_from_mapping operations 5097
+average execution gas for 10 store_bn254_g1_element_in_mapping operations 44628
+raw data for bench_increment_nonce
+[5225,5225,5225,5225,5225,5225,5225,5225,5225,5225]
+raw data for bench_store_hash
+[22202,22202,22202,22202,22202,22202,22202,22202,22202,22202]
+raw data for bench_hash_and_store
+[22253,22253,22253,22253,22253,22253,22253,22253,22253,22253]
+raw data for bench_delete_commitment
+[5097,5097,5097,5097,5097,5097,5097,5097,5097,5097]
+raw data for bench_store_ecp
+[44628,44628,44628,44628,44628,44628,44628,44628,44628,44628]

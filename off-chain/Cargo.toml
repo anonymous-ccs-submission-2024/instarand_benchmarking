@@ -1,0 +1,35 @@
+[package]
+name = "instarand_benchmarking"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rand = "0.8"
+substrate-bn = "0.6.0"
+k256 = "0.13.3"
+rust-crypto = "0.2"
+
+
+[dev-dependencies]
+criterion = { version = "0.4.0", features = ["html_reports"] }
+
+[[bench]]
+name = "vrf"
+harness = false
+
+
+[[bench]]
+name = "flexirand"
+harness = false
+
+
+[[bench]]
+name = "dvrf"
+harness = false
+
+
+[[bench]]
+name = "instarand"
+harness = false

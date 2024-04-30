@@ -1,0 +1,90 @@
+creation of Dvrf pending...
+[vm]from: 0x5B3...eddC4to: Dvrf.(constructor)value: 0 weidata: 0x608...30033logs: 0hash: 0x260...1d402
+running scripts/bench_dvrf.ts ...
+running bench_dvrf with 1 repeitions
+total transaction gas over 1 request transactions 70657
+total transaction gas over 1 fulfillment transactions 188050
+average transaction gas over 1 request transactions 70657
+average transaction gas over 1 fulfillment transactions 188050
+transaction gas raw data
+[[70657],[188050]]
+running scripts/bench_dvrf.ts ...
+running bench_dvrf with 10 repeitions
+total transaction gas over 10 request transactions 535546
+total transaction gas over 10 fulfillment transactions 1928312
+average transaction gas over 10 request transactions 53554.6
+average transaction gas over 10 fulfillment transactions 192831.2
+transaction gas raw data
+[[53557,53545,53557,53557,53557,53557,53557,53557,53545,53557],[202027,195200,187854,195049,195212,187842,202027,195016,180427,187658]]
+running scripts/bench_dvrf.ts ...
+running bench_dvrf with 10 repeitions
+total transaction gas over 10 request transactions 535570
+total transaction gas over 10 fulfillment transactions 1929075
+average transaction gas over 10 request transactions 53557
+average transaction gas over 10 fulfillment transactions 192907.5
+transaction gas raw data
+[[53557,53557,53557,53557,53557,53557,53557,53557,53557,53557],[195004,180843,180647,180843,187842,187854,202223,209189,202407,202223]]
+running scripts/bench_dvrf.ts ...
+running bench_dvrf with 10 repeitions
+total transaction gas over 10 request transactions 535558
+total transaction gas over 10 fulfillment transactions 1878022
+average transaction gas over 10 request transactions 53555.8
+average transaction gas over 10 fulfillment transactions 187802.2
+transaction gas raw data
+[[53545,53557,53557,53557,53557,53557,53557,53557,53557,53557],[180831,187842,194865,187658,187658,180647,187658,195200,180647,195016]]
+running scripts/bench_dvrf.ts ...
+running bench_dvrf with 10 repeitions
+total transaction gas over 10 request transactions 535546
+total transaction gas over 10 fulfillment transactions 1957180
+average transaction gas over 10 request transactions 53554.6
+average transaction gas over 10 fulfillment transactions 195718
+transaction gas raw data
+[[53557,53557,53557,53557,53557,53557,53545,53557,53545,53557],[180647,202027,187658,195212,195016,180451,209373,202223,209557,195016]]
+running scripts/bench_dvrf.ts ...
+running bench_dvrf with 10 repeitions
+total transaction gas over 10 request transactions 535558
+total transaction gas over 10 fulfillment transactions 1885772
+average transaction gas over 10 request transactions 53555.8
+average transaction gas over 10 fulfillment transactions 188577.2
+transaction gas raw data
+[[53557,53557,53557,53557,53557,53557,53557,53545,53557,53557],[180647,187854,188050,195016,194820,195004,187854,180831,187842,187854]]
+running scripts/bench_dvrf.ts ...
+running bench_dvrf with 10 repeitions
+total transaction gas over 10 request transactions 535558
+total transaction gas over 10 fulfillment transactions 1920794
+average transaction gas over 10 request transactions 53555.8
+average transaction gas over 10 fulfillment transactions 192079.4
+transaction gas raw data
+[[53557,53557,53557,53557,53557,53557,53557,53545,53557,53557],[202027,180451,187646,195016,202027,187854,202223,180831,194865,187854]]
+running scripts/bench_dvrf.ts ...
+running bench_dvrf with 10 repeitions
+total transaction gas over 10 request transactions 535558
+total transaction gas over 10 fulfillment transactions 1914649
+average transaction gas over 10 request transactions 53555.8
+average transaction gas over 10 fulfillment transactions 191464.9
+transaction gas raw data
+[[53557,53545,53557,53557,53557,53557,53557,53557,53557,53557],[180647,188026,180635,202223,209581,187854,195016,195016,180635,195016]]
+running scripts/bench_dvrf.ts ...
+running bench_dvrf with 10 repeitions
+total transaction gas over 10 request transactions 535558
+total transaction gas over 10 fulfillment transactions 1964824
+average transaction gas over 10 request transactions 53555.8
+average transaction gas over 10 fulfillment transactions 196482.4
+transaction gas raw data
+[[53545,53557,53557,53557,53557,53557,53557,53557,53557,53557],[202199,209385,187854,209373,187854,195016,187854,202419,180647,202223]]
+running scripts/bench_dvrf.ts ...
+running bench_dvrf with 10 repeitions
+total transaction gas over 10 request transactions 535558
+total transaction gas over 10 fulfillment transactions 1929075
+average transaction gas over 10 request transactions 53555.8
+average transaction gas over 10 fulfillment transactions 192907.5
+transaction gas raw data
+[[53557,53557,53557,53557,53557,53557,53557,53557,53545,53557],[180635,180647,202223,195257,188050,195016,209385,180635,195004,202223]]
+running scripts/bench_dvrf.ts ...
+running bench_dvrf with 10 repeitions
+total transaction gas over 10 request transactions 535558
+total transaction gas over 10 fulfillment transactions 1906691
+average transaction gas over 10 request transactions 53555.8
+average transaction gas over 10 fulfillment transactions 190669.1
+transaction gas raw data
+[[53557,53557,53557,53557,53545,53557,53557,53557,53557,53557],[209385,180647,180635,202223,187646,202223,180451,187842,195016,180623]]

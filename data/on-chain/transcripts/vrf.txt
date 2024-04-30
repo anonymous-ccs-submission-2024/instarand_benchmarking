@@ -1,0 +1,90 @@
+creation of Vrf pending...
+[vm]from: 0x5B3...eddC4to: Vrf.(constructor)value: 0 weidata: 0x608...30033logs: 0hash: 0xd59...563b3
+running scripts/bench_vrf.ts ...
+running bench_vrf with 1 repeitions
+total transaction gas over 1 request transactions 70679
+total transaction gas over 1 fulfillment transactions 76563
+average transaction gas over 1 request transactions 70679
+average transaction gas over 1 fulfillment transactions 76563
+transaction gas raw data
+[[70679],[76563]]
+running scripts/bench_vrf.ts ...
+running bench_vrf with 10 repeitions
+total transaction gas over 10 request transactions 535766
+total transaction gas over 10 fulfillment transactions 765695
+average transaction gas over 10 request transactions 53576.6
+average transaction gas over 10 fulfillment transactions 76569.5
+transaction gas raw data
+[[53567,53579,53579,53579,53579,53579,53567,53579,53579,53579],[76473,76565,72687,72697,76563,80558,72687,80442,84426,72597]]
+running scripts/bench_vrf.ts ...
+running bench_vrf with 10 repeitions
+total transaction gas over 10 request transactions 535778
+total transaction gas over 10 fulfillment transactions 797377
+average transaction gas over 10 request transactions 53577.8
+average transaction gas over 10 fulfillment transactions 79737.7
+transaction gas raw data
+[[53579,53579,53579,53579,53579,53579,53579,53579,53579,53567],[72619,72687,72619,72549,72699,84550,107903,84654,76563,80534]]
+running scripts/bench_vrf.ts ...
+running bench_vrf with 10 repeitions
+total transaction gas over 10 request transactions 535778
+total transaction gas over 10 fulfillment transactions 742343
+average transaction gas over 10 request transactions 53577.8
+average transaction gas over 10 fulfillment transactions 74234.3
+transaction gas raw data
+[[53579,53579,53579,53579,53579,53579,53567,53579,53579,53579],[72721,76689,72607,72595,72721,80466,76679,72663,72607,72595]]
+running scripts/bench_vrf.ts ...
+running bench_vrf with 10 repeitions
+total transaction gas over 10 request transactions 535766
+total transaction gas over 10 fulfillment transactions 761494
+average transaction gas over 10 request transactions 53576.6
+average transaction gas over 10 fulfillment transactions 76149.4
+transaction gas raw data
+[[53579,53579,53579,53579,53579,53567,53567,53579,53579,53579],[72619,76461,72595,96284,80432,72675,72595,72561,72585,72687]]
+running scripts/bench_vrf.ts ...
+running bench_vrf with 10 repeitions
+total transaction gas over 10 request transactions 535790
+total transaction gas over 10 fulfillment transactions 738373
+average transaction gas over 10 request transactions 53579
+average transaction gas over 10 fulfillment transactions 73837.3
+transaction gas raw data
+[[53579,53579,53579,53579,53579,53579,53579,53579,53579,53579],[72671,72593,72685,72607,72595,72719,72605,72721,84458,72719]]
+running scripts/bench_vrf.ts ...
+running bench_vrf with 10 repeitions
+total transaction gas over 10 request transactions 535778
+total transaction gas over 10 fulfillment transactions 753560
+average transaction gas over 10 request transactions 53577.8
+average transaction gas over 10 fulfillment transactions 75356
+transaction gas raw data
+[[53579,53579,53579,53579,53579,53579,53579,53567,53579,53579],[76461,76541,76587,72687,72607,80456,72687,72597,80354,72583]]
+running scripts/bench_vrf.ts ...
+running bench_vrf with 10 repeitions
+total transaction gas over 10 request transactions 535766
+total transaction gas over 10 fulfillment transactions 749923
+average transaction gas over 10 request transactions 53576.6
+average transaction gas over 10 fulfillment transactions 74992.3
+transaction gas raw data
+[[53567,53579,53567,53579,53579,53579,53579,53579,53579,53579],[72707,76485,72707,84266,76485,72607,76597,72721,72617,72731]]
+running scripts/bench_vrf.ts ...
+running bench_vrf with 10 repeitions
+total transaction gas over 10 request transactions 535778
+total transaction gas over 10 fulfillment transactions 765989
+average transaction gas over 10 request transactions 53577.8
+average transaction gas over 10 fulfillment transactions 76598.9
+transaction gas raw data
+[[53579,53567,53579,53579,53579,53579,53579,53579,53579,53579],[72687,76451,76631,72709,80558,84346,76679,72595,80648,72685]]
+running scripts/bench_vrf.ts ...
+running bench_vrf with 10 repeitions
+total transaction gas over 10 request transactions 535790
+total transaction gas over 10 fulfillment transactions 785296
+average transaction gas over 10 request transactions 53579
+average transaction gas over 10 fulfillment transactions 78529.6
+transaction gas raw data
+[[53579,53579,53579,53579,53579,53579,53579,53579,53579,53579],[80544,72619,72595,76565,76587,76565,88432,72561,88384,80444]]
+running scripts/bench_vrf.ts ...
+running bench_vrf with 10 repeitions
+total transaction gas over 10 request transactions 535778
+total transaction gas over 10 fulfillment transactions 774010
+average transaction gas over 10 request transactions 53577.8
+average transaction gas over 10 fulfillment transactions 77401
+transaction gas raw data
+[[53579,53579,53579,53579,53567,53579,53579,53579,53579,53579],[72619,72709,76585,72581,84628,72707,80578,84538,72731,84334]]
