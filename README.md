@@ -39,7 +39,7 @@ Contains off-chain benchmarking written in Rust and on-chain benchmarking writte
 - run `cargo bench`
 ## Contracts
 #### Smart Contracts Overview ([`./on-chain/contracts/`](./on-chain/contracts/))
-- [`BLS.sol`](./on-chain/contracts/BLS.sol) and [`~/chainlink/`](./on-chain/contracts/DDH.sol) contain implementations for verification of BLS Signatures on BN254 and Goldberg VRF on Secp256k1 respectively.
+- [`BLS.sol`](./on-chain/contracts/BLS.sol) and [`DDH.sol`](./on-chain/contracts/DDH.sol) contain implementations for verification of BLS Signatures on BN254 and Goldberg VRF on Secp256k1 respectively.
 - They contain the Supra and Chainlink implementations respectively, with any modifications denoted by a `FLAG_TODO` comment which can be easily parsed.
   - `BLS.sol` was taken from the [Supra dVRF Smart contract](https://etherscan.io/address/0xaeef3c744e07b4ceeb7469460f220c697b8fb8bc#code) currently deployed on ethereum mainnet.
   - `DDH.sol` was taken from [Chainlink's Github](https://github.com/smartcontractkit/chainlink/blob/develop/contracts/src/v0.8/vrf/VRF.sol) rather than the [Chainlink VRF Smart Contract](https://etherscan.io/address/0xf0d54349aDdcf704F77AE15b96510dEA15cb7952#code#L275) that is currently deployed on ethereum mainnet because it compiles with the same solidity compiler versions as `BLS.sol`
