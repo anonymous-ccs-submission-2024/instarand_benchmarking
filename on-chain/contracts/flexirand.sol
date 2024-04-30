@@ -73,7 +73,6 @@ contract FlexiRand {
         require(requests[x.reqid] == keccak256(abi.encodePacked(x.e)));
         // ensure blinding hasn't already been submitted for x
         require(inputs[x.reqid][0] == 0 && inputs[x.reqid][1] == 0);
-        // TODO there is a problem here if some malicious client submits invalid blinding since we do not do inp_ver on-chain
         // store blinded input
         inputs[x.reqid] = x_blind;
         // emit event for submission of blinded input for listening parties
